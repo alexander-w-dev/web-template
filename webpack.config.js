@@ -79,10 +79,10 @@ module.exports = {
           from: './src/index.html',
           to: './index.html'
         },
-        {
-          from: './src/img',
-          to: './img'
-        }
+        // {
+        //   from: './src/img',
+        //   to: './img'
+        // }
       ]
     ),
   ]
